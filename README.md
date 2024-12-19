@@ -20,6 +20,7 @@ Este proyecto consiste en una **Landing Page** diseñada para una página web de
     ```bash
     index.html
     ```
+## Visitalo en https://fjmoisesromero.github.io/Landing-Page-Logistica/
 
 ## 📸 Capturas del proyecto
 
@@ -39,3 +40,4 @@ Este proyecto fue realizado con fines educativos, pero cualquier sugerencia o me
 ## 📝 Licencia
 
 Este proyecto es un aporte a la comunidad, sientete libre de usarlo.
+
